@@ -6,6 +6,8 @@ labels: bug
 assignees: ''
 ---
 
+> **Security issue?** Don't post here — email [architect@perpwalk.wtf](mailto:architect@perpwalk.wtf) instead.
+
 ## Description
 
 A clear description of the bug.

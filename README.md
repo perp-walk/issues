@@ -24,7 +24,7 @@ Public issue tracker for Perp Walk.
 
 **Do not report security vulnerabilities here.**
 
-If you discover a security issue, please report it privately. Contact details are in our main documentation.
+Email security issues directly to [architect@perpwalk.wtf](mailto:architect@perpwalk.wtf).
 
 ## Response Time
 
